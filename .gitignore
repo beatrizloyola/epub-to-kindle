@@ -1,0 +1,25 @@
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Virtualenv
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Test artifacts
+*.azw3
+*.mobi
